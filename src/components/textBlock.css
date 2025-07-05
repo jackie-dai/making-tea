@@ -1,0 +1,29 @@
+p h1 h2 {
+    color: black;
+}
+
+.blackText {
+    color: black;
+    max-width: 600px;
+    margin-right: 10px;
+}
+
+.container {
+    border: 2px solid black;
+}
+
+.caret {
+    width: 25px;
+    height: 25px;
+}
+
+.caret:hover {
+    cursor: pointer;
+}
+
+.headerContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
